@@ -58,7 +58,7 @@ Transforming healthcare data into intelligent insights for better patient outcom
 <a href="https://linkedin.com/in/saicharan-tammineni">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/saicharan-tammineni">
+<a href="https://github.com/Charan5772">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
 </a>&nbsp;&nbsp;
 <a href="#">
@@ -643,7 +643,7 @@ Specialized Tools:
 
 ## 📈 **PROFESSIONAL DEVELOPMENT ACTIVITY**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan-tammineni&custom_title=Healthcare%20Analytics%20%26%20Data%20Engineering%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan5772&custom_title=Healthcare%20Analytics%20%26%20Data%20Engineering%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
@@ -655,10 +655,10 @@ Specialized Tools:
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saicharan-tammineni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FFA116" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Charan5772&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FFA116" width="400" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-tammineni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan5772&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="350" />
 </td>
 </tr>
 </table>
@@ -675,10 +675,10 @@ Specialized Tools:
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=saicharan-tammineni&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Charan5772&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/saicharan-tammineni?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
+<img src="https://img.shields.io/github/followers/Charan5772?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
