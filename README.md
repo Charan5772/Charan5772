@@ -647,24 +647,6 @@ Specialized Tools:
 
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 **DEVELOPMENT STATISTICS**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Charan5772&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FFA116" width="400" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan5772&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="350" />
-</td>
-</tr>
-</table>
-
-</div>
-
 <!-- Footer -->
 <div align="center">
 
