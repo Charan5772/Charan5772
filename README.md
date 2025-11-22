@@ -237,6 +237,34 @@ ORDER BY improvement DESC;
 
 <table width="100%">
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖 **DATA SCIENTIST – AI**
+
+**`Socratics AI • San Francisco, CA (Hybrid) • Sep 2025 – Present`**
+
+<img src="https://img.shields.io/badge/📈_LLM_&_Risk_Analytics-6A5ACD?style=flat-square&labelColor=2C3E50"/>
+
+- **LLM & ML-Driven Risk Analytics**: Designed and tested AI-powered financial workflows using large language models and multi-agent systems to automate valuation analysis and enhance risk monitoring.  
+- **AI Financial Modeling**: Helped prototype AI-generated **Income Statement, Balance Sheet, and Cash Flow** outputs from semi-structured financial documents.
+
+<img src="https://img.shields.io/badge/⚙️_Automation_&_Agents-00B894?style=flat-square&labelColor=2C3E50"/>
+
+- **Workflow Automation (n8n & Agents)**: Built n8n-driven automation pipelines orchestrating data ingestion, validation, and insight delivery with AI agents, streamlining finance and marketing analytics workflows.  
+- **Code Acceleration**: Integrated GitHub Actions with agentic IDE widgets and code-gen models to automate boilerplate generation, test runs, and deployment triggers while maintaining audit traceability.
+
+<img src="https://img.shields.io/badge/🛠️_Infra_&_DevOps-FF8A65?style=flat-square&labelColor=2C3E50"/>
+
+- **Environment Consistency**: Developed Infrastructure-as-Code using **Ansible + Docker** to standardize multi-agent environments across dev, staging, and production.  
+- **Visible Workflow**: Leveraged **Jira & Confluence** to create linked design pages that auto-spawned Jira issues, enabling transparent backlog management and structured sprints.
+
+<img src="https://img.shields.io/badge/📡_Cloud_&_APIs-1E90FF?style=flat-square&labelColor=2C3E50"/>
+
+- **Azure KQL Analytics**: Used **Kusto Query Language (KQL)** in Azure for telemetry, log analytics, and real-time monitoring of agent pipelines and risk metrics.  
+- **Hasura & GraphQL**: Integrated **Hasura GraphQL Engine** to expose secure, versioned GraphQL APIs over financial datasets, enabling LLM/agent workflows to query and mutate data safely and efficiently.
+
+</td>
 <td width="50%" valign="top">
 
 ### 🚀 **DATA ENGINEER**
