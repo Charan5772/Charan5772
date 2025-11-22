@@ -241,7 +241,7 @@ ORDER BY improvement DESC;
 
 ### 🚀 **DATA ENGINEER**
 
-**`Verint Systems • Atlanta, GA (Remote) • May 2024 – Present`**
+**`Verint Systems • Atlanta, GA (Remote) • May 2024 – Aug 2025`**
 
 <img src="https://img.shields.io/badge/🏥_Healthcare_Analytics-FF6B6B?style=flat-square&labelColor=2C3E50"/>
 
