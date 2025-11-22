@@ -19,7 +19,7 @@
 ```bash
 ┌─[sai@analytics-lab]─[~/healthcare-systems]
 └──╼ $ whoami
-Data Engineer • Business Analyst • ML Engineer | Oklahoma State University MS
+Data Scientist • Business Analyst • ML Engineer | Oklahoma State University MS
 
 ┌─[sai@analytics-lab]─[~/achievements]
 └──╼ $ ls -la
@@ -237,7 +237,6 @@ ORDER BY improvement DESC;
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 **DATA SCIENTIST – AI**
@@ -290,31 +289,6 @@ ORDER BY improvement DESC;
 
 - **Dynamic Dashboards**: Power BI & Tableau with **20% faster** reporting
 - **Real-time Analytics**: State-level compliance and risk KPI insights
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 **ASSOCIATE BUSINESS ANALYST**
-
-**`CGI • Bangalore, India • Mar 2021 – Jul 2023`**
-
-<img src="https://img.shields.io/badge/🏥_Healthcare_Claims-E74C3C?style=flat-square&labelColor=2C3E50"/>
-
-- **Massive Scale Analytics**: **10M+ healthcare & pension transactions** for CalSTRS
-- **Predictive Modeling**: Critical utilization patterns for financial forecasting
-- **Federal Compliance**: State pension data under HIPAA-similar standards
-
-<img src="https://img.shields.io/badge/🤖_ML_Pipeline_Automation-1ABC9C?style=flat-square&labelColor=2C3E50"/>
-
-- **Risk Scoring**: SQL, SAS & Python automation feeding ML models
-- **Anomaly Detection**: XGBoost, K-Means & Isolation Forest deployment
-- **Fraud Intelligence**: Real-time fraud signal detection systems
-
-<img src="https://img.shields.io/badge/📊_Executive_Dashboards-E67E22?style=flat-square&labelColor=2C3E50"/>
-
-- **Real-time Intelligence**: Power BI & Tableau with ML integration
-- **Behavioral Analytics**: **10% digital interaction** increase via A/B testing
-- **Decision Support**: Decision trees & anomaly scores for executives
 
 </td>
 </tr>
